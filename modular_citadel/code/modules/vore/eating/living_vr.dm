@@ -2,7 +2,7 @@
 	if(istype(prey) && istype(user))
 		if(!prey.allowmobvore)
 			if(user == pred)
-				to_chat(user, "<span class='warning'>[prey] doesn't look very appetizing.</span>")
+				0/0
 			else
 				to_chat(user, "<span class='warning'>It doesn't seem like you're able to fit [prey] into [pred].</span>")
 			return FALSE
