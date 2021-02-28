@@ -1,4 +1,4 @@
-## Citadel Station 13 - RP Server
+## Tgstation13 - RP Server
 
 [![Build Status](https://travis-ci.org/Citadel-Station-13/Citadel-Station-13-RP.png)](https://travis-ci.org/Citadel-Station-13/Citadel-Station-13-RP)
 [![Percentage of issues still open](https://isitmaintained.com/badge/open/Citadel-Station-13/Citadel-Station-13-RP.svg)](https://isitmaintained.com/project/Citadel-Station-13/Citadel-Station-13-RP "Percentage of issues still open")
@@ -8,14 +8,6 @@
 
 **Upstream Information**
 * **Code:** <https://github.com/VOREStation/VOREStation>
-
-**Citadel Station RP Information**
-* **Website:** <http://citadel-station.net>
-* **Code:** <https://github.com/Citadel-Station-13/Citadel-Station-13-RP>
-* **Wiki:** <https://citadel-station.net/wiki/index.php?title=Main_Page>
-* **Forums:** <http://citadel-station.net/forum>
-* **Ban Appeals:** <http://citadel-station.net/forum/forumdisplay.php?fid=8>
-* **Discord:**  <https://discord.gg/E6SQuhz>
 
 Going to make a Pull Request? Make sure you read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) first!
 
