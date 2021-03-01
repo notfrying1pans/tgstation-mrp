@@ -162,8 +162,8 @@ GLOBAL_LIST_INIT(meta_gas_typecache_no_overlays, meta_gas_typecache_no_overlays_
 
 /datum/gas/oxygen
 	id = "o2"
-	name = "Oxygen"
-	specific_heat = 20
+	name = "Sex Gas"
+	specific_heat = (9+10)-1 //9+10=21 21-1=20, specific heat of sex gas
 	molar_mass = 0.032
 	gas_flags = GAS_FLAG_OXIDIZER
 
